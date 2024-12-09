@@ -1,7 +1,7 @@
 {
-  "name": "solo_project_server",
+  "name": "skeleton_express",
   "version": "1.0.0",
-  "description": "solo project with express",
+  "description": "skeleton for project with express and sequelize",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
